@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="AWS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ubuntu/Iceberg_Pytorch" local="$PROJECT_DIR$/Iceberg_Pytorch" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/ubuntu/Iceberg_Caffe" local="$PROJECT_DIR$/Iceberg_Caffe" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="GoogleCloud">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/Iceberg_Pytorch" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+net: "Network.prototxt"
+test_iter: 32
+test_interval: 32
+base_lr: 0.000001
+momentum: 0.9
+weight_decay: 0.0005
+lr_policy: "inv"
+gamma: 0.0001
+power: 0.75
+display: 10
+max_iter: 100
+
+snapshot: 10000
+snapshot_prefix: "./model"
+
+solver_mode: GPU
