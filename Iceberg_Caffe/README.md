@@ -4,11 +4,9 @@
 3. 'solver.prototxt' is the solver prototxt file
 4. 'train.py' is the training file
 
-######################################################################
 Prerequisites
 Environment: Python2.7
 Framework: Caffe
 
-######################################################################
 The order of running this folder follows: 1 -> 4
 
