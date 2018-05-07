@@ -20,12 +20,20 @@
     output: test data image
     output path: './Data/data_test'
 
+
+
 The order of running this folder follows: 1 -> 2 -> 3 -> 4 -> 5
+
+
 
 NOTE: Before running these scripts, please check the raw json files saved in './Data'
 
+
+
 Pass the preprocessing, download data zip file from (save them in 'Data' folder):
 https://drive.google.com/open?id=1Zz_rbZw5Iv1IAt73JSCF1qYfJU9n-900
+
+
 
 Kaggle data source:
 https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data

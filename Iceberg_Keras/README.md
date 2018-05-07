@@ -3,8 +3,8 @@
 2. 'predict.py' file is to predict the probability of iceberg in test images(8424) and output the submission file.
 
 Prerequisites
-Environment: Python3
-Framework: Keras
+1. Environment: Python3
+2. Framework: Keras
 
 The order of running this folder follows: 1 -> 2
 

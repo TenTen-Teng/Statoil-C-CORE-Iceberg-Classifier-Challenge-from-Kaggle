@@ -5,8 +5,8 @@
 4. 'train.py' is the training file
 
 Prerequisites
-Environment: Python2.7
-Framework: Caffe
+1. Environment: Python2.7
+2. Framework: Caffe
 
 The order of running this folder follows: 1 -> 4
 
