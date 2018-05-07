@@ -24,6 +24,6 @@
 
 ###### NOTE: Before running these scripts, please check the raw json files saved in './Data'
 
-Pass the preprocessing, download [data](https://drive.google.com/open?id=1Zz_rbZw5Iv1IAt73JSCF1qYfJU9n-900) zip file from (save them in 'Data' folder)
+Pass the preprocessing, download [data](https://drive.google.com/open?id=1Zz_rbZw5Iv1IAt73JSCF1qYfJU9n-900) zip file (save them in 'Data' folder)
 
 [Kaggle data source](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data)
